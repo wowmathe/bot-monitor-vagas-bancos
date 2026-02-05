@@ -54,6 +54,7 @@ Automatizar e otimizar a busca por oportunidades no setor bancário
 Aplicar conceitos de programação e automação na prática
 Desenvolver autonomia técnica, adaptabilidade e resiliência
 Criar um projeto real para portfólio profissional
+
 📈 Próximas Melhorias (Roadmap)
 [ ] Suporte a múltiplas fontes de vagas
 [ ] Logs mais detalhados
@@ -67,14 +68,4 @@ Nenhuma credencial, token ou dado sensível é versionado neste repositório.
 Matheus Lucizano
 Projeto desenvolvido como iniciativa pessoal para aprendizado contínuo, automação de processos e evolução profissional.
 📌 Fique à vontade para clonar, testar ou deixar sugestões!
-Copiar código
-
----
-
-### ✅ Próximo passo
-Depois de colar:
-```bash
-git add README.md
-git commit -m "Atualiza README com documentação completa"
-git push
 
